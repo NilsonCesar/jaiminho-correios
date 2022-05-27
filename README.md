@@ -18,4 +18,6 @@ A primeira é a acessibilidade em sí, que usa cores vibrantes e que pode compro
 
 A segunda é o design em sí. Fora a parte de cores já citada, escolhi a fonte mas por gostá-la do que para cumprir algum propósito (talvez a cor dela seja algo a se ver).
 
+Por fim, é notável também que ele não é responsivo, não usando media queries ou tentando prevenir overflow de alguns elementos.
+
 Enfim, tento corrigir estes pontos em meus projetos mais novos, como meu <a href="https://NilsonCesar.github.io/">site pessoal</a>. Vivendo e aprendendo!
