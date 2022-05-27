@@ -1,6 +1,6 @@
 # Jaiminho Correios
 ## Resumo
-Site feito em HTML e CSS que expõem uma fictícia startup feita pelo personagem do Chaves, Jaiminho, o Carteiro. Se quiser ver como ficou, pode clicar <a href="https://NilsonCesar.github.io/projetos/jaiminho-correios">aqui</a>.
+Site feito em HTML e CSS que expõem uma fictícia startup feita pelo personagem do Chaves, Jaiminho, o Carteiro. Se quiser ver como ficou, pode clicar <a href="https://NilsonCesar.github.io/jaiminho-correios/">aqui</a>.
 
 ## De onde surgiu a ideia?
 Estava eu me relembrando do Chaves e traçando paralelos sobre como seria uma adaptação para os dias atuais, quando me lembrei do Jaiminho.
